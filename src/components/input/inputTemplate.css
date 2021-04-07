@@ -1,0 +1,20 @@
+.inputTemplate {
+    width: 250px;
+}
+.inputTemplate-label {
+    /*display: flex;*/
+    color: #ffa500;
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.inputTemplate-input {
+    /*display: block;*/
+    outline: none;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #b5b1b1;
+    border-radius: 4px;
+    background: #b5b1b1;
+}

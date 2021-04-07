@@ -1,0 +1,15 @@
+.buttonTemplate {
+
+}
+.buttonTemplate__btn {
+    height: 36px;
+    min-width: 189px;
+    padding: 0 20px;
+    background: #fcbc17;
+    color: #ffffff;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    outline: none;
+}
